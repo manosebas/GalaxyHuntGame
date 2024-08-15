@@ -47,11 +47,11 @@ void draw() {
   textSize(50);
   text(tittle, width/2, height/2);
   textSize(25);
-  text("Vida: ", 630,50);
+  text("Lifes: ", 630,50);
   text(contadorVida, 670, 50);
   text("Score: ", 60,50);
   text(contadorPuntaje, 110,50);
-  text("Nivel: ", 60, 90);
+  text("Level: ", 60, 90);
   text(nivel, 110, 90);
   
   //Obtener tiempo transcurrido
