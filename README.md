@@ -1,6 +1,5 @@
 # Galaxy Hunt
 
-![Galaxy Hunt](./images/1.png)
 <img src="./images/1.png" alt="Gameplay" width="480" height="320">
 
 ## Description
@@ -12,10 +11,8 @@ The game dynamically increases in difficulty and introduces new levels over time
 
 The intuitive design and progressive difficulty curve ensure a captivating experience for players while demonstrating core principles of game development and physics simulation.
 
-![Gameplay](./images/2.png)
 <img src="./images/2.png" alt="Gameplay" width="480" height="320">
 
-![Level Progression](./images/3.png)
 <img src="./images/3.png" alt="Gameplay" width="480" height="320">
 
 ## Installation
